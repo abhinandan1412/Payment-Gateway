@@ -1,4 +1,2 @@
 # Payment Gateway
-Website Link :- https://abhinandanpaymentgatewayintegrationgrip.000webhostapp.com
-#
-Github Link :- https://abhinandan2905.github.io/sparksfoundation/
+Website Link :- https://lively-flower-00bf71f10.1.azurestaticapps.net
